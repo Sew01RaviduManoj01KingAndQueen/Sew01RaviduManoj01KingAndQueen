@@ -125,21 +125,17 @@ Here are some ideas to get you started:
 </details>
 
 
-    <summary>&#127942 <b>GitHub Awards</b></summary></br>
-
+   <details>
+    <summary>&#127942 <b>GitHub Awards</b></summary>
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Sew01RaviduManoj01KingAndQueen)
+</details>
 
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary></br>
+### GitHub Activity
 
 ![Metrics](https://metrics.lecoq.io/Sew01RaviduManoj01KingAndQueen?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=Sew01RaviduManoj01KingAndQueen&repo=Sew-Bot-By-Ravindu-Manoj)](https://github.com/Sew01RaviduManoj01KingAndQueen/Sew-Bot-By-Ravindu-Manoj)
 
-</details>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=onnz2qmc7ol5br77kc2zpowtw&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=onnz2qmc7ol5br77kc2zpowtw&redirect=true)
 
 <div align="center">
 <h1>🦚  Ravindu Manoj  🦚</h1>
