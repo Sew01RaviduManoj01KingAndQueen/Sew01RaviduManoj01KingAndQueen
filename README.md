@@ -124,12 +124,11 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sew01RaviduManoj01KingAndQueen&theme=nightowl" alt="RavinduManoj" /></p>
 </details>
 
-<details>
-    <b>GitHub Awards</b></br>
+
+    <summary>&#127942 <b>GitHub Awards</b></summary></br>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Sew01RaviduManoj01KingAndQueen)
 
-</details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary></br>
