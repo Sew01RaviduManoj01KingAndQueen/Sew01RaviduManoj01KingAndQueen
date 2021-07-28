@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Sew01RaviduManoj01KingAndQueen/Sew01RaviduManoj01KingAndQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,20 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-**Sew01RaviduManoj01KingAndQueen/Sew01RaviduManoj01KingAndQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 🇱🇰 I'm <br>Ravindu Manoj</h1>
 <h4 align="center">I am a simple developer. Not more..</h3>
 <h7 align="left">Moreover, I am the co-owner of the first project in the world. <br>My Worlsd Is Sew Queen 🇱🇰</h7>
@@ -139,7 +125,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary></br>
+    <b>GitHub Awards</b></br>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Sew01RaviduManoj01KingAndQueen)
 
