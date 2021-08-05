@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/Sew01RaviduManoj01KingAndQueen?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Sew01RaviduManoj01KingAndQueen&repo=Sew-Bot-By-Ravindu-Manoj)](https://github.com/Sew01RaviduManoj01KingAndQueen/Sew-Bot-By-Ravindu-Manoj)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Sew01RaviduManoj01KingAndQueen&repo=FbPwHack)](https://github.com/Sew01RaviduManoj01KingAndQueen/FbPwHack)
 
 
 <div align="center">
